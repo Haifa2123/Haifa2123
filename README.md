@@ -1,4 +1,4 @@
-# Hotel Reservation System
+# Modern Hotel Reservation System 
 
 Welcome to the **Modern Hotel Reservation System powered by react and firebase**, a responsive and user-friendly web application developed using **React** and **Firebase**. This system simplifies table reservations for restaurants with real-time booking and data management capabilities.
 
